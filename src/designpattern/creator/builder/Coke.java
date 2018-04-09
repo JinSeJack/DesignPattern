@@ -1,17 +1,17 @@
-package designpattern.builder;
+package designpattern.creator.builder;
 
-public class Pepsi extends ColdDrink{
+public class Coke extends ColdDrink{
 
 	@Override
 	public String name() {
 		// TODO Auto-generated method stub
-		return "pepsi";
+		return "coke";
 	}
 
 	@Override
 	public float price() {
 		// TODO Auto-generated method stub
-		return 3.0f;
+		return 2.5f;
 	}
 
 }

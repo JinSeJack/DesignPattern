@@ -1,4 +1,4 @@
-package desigpattern.Factory;
+package designpattern.creator.Factory;
 
 import desigpattern.Factory.instance.Shape;
 

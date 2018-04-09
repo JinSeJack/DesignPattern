@@ -1,4 +1,4 @@
-package designpattern.builder;
+package designpattern.creator.builder;
 public class Wrapper implements Packing {
 
    @Override

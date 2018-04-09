@@ -1,4 +1,4 @@
-package designpattern.builder;
+package designpattern.creator.builder;
 
 public interface Packing {
 	public String pack();

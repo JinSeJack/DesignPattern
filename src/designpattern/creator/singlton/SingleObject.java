@@ -1,4 +1,4 @@
-package designpattern.ingleton;
+package designpattern.creator.singlton;
 
 public class SingleObject {
 
